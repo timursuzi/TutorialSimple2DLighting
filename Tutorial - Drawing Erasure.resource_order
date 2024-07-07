@@ -31,6 +31,7 @@
     {"name":"spr_treasure","order":13,"path":"sprites/spr_treasure/spr_treasure.yy",},
     {"name":"spr_tree_round","order":14,"path":"sprites/spr_tree_round/spr_tree_round.yy",},
     {"name":"spr_tree_squiggly","order":15,"path":"sprites/spr_tree_squiggly/spr_tree_squiggly.yy",},
+    {"name":"DungeonTileset","order":47,"path":"tilesets/DungeonTileset/DungeonTileset.yy",},
     {"name":"ts_main","order":16,"path":"tilesets/ts_main/ts_main.yy",},
   ],
 }

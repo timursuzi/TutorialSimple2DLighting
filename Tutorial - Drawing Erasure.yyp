@@ -17,7 +17,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2022.6.0.23",
+    "IDEVersion":"2024.6.0.157",
   },
   "name":"Tutorial - Drawing Erasure",
   "resources":[
@@ -53,6 +53,7 @@
     {"id":{"name":"spr_treasure","path":"sprites/spr_treasure/spr_treasure.yy",},},
     {"id":{"name":"spr_tree_round","path":"sprites/spr_tree_round/spr_tree_round.yy",},},
     {"id":{"name":"spr_tree_squiggly","path":"sprites/spr_tree_squiggly/spr_tree_squiggly.yy",},},
+    {"id":{"name":"DungeonTileset","path":"tilesets/DungeonTileset/DungeonTileset.yy",},},
     {"id":{"name":"ts_main","path":"tilesets/ts_main/ts_main.yy",},},
   ],
   "resourceType":"GMProject",

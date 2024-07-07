@@ -1,0 +1,808 @@
+{
+	"textures": [
+		{
+			"texture": "DungeonTileset-0.png",
+			"normalMap": "DungeonTileset-0_n.png",
+			"frames": {
+				"objects/door1/2.png": {
+					"size": { "w": 512, "h": 668 },
+					"frame": { "x": 1, "y": 1, "w": 512, "h": 666 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/door1/3.png": {
+					"size": { "w": 512, "h": 672 },
+					"frame": { "x": 1, "y": 669, "w": 512, "h": 665 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/door1/1.png": {
+					"size": { "w": 512, "h": 668 },
+					"frame": { "x": 515, "y": 1, "w": 512, "h": 625 },
+					"offset": { "x": 0, "y": 43 },
+					"rotated": false
+				},
+				"objects/door3/2.png": {
+					"size": { "w": 256, "h": 671 },
+					"frame": { "x": 1, "y": 1336, "w": 226, "h": 669 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/door3/1.png": {
+					"size": { "w": 256, "h": 671 },
+					"frame": { "x": 515, "y": 628, "w": 256, "h": 584 },
+					"offset": { "x": 0, "y": 87 },
+					"rotated": false
+				},
+				"objects/door2/1.png": {
+					"size": { "w": 256, "h": 540 },
+					"frame": { "x": 1029, "y": 1, "w": 256, "h": 540 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/door2/2.png": {
+					"size": { "w": 256, "h": 540 },
+					"frame": { "x": 229, "y": 1336, "w": 256, "h": 540 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/door2/3.png": {
+					"size": { "w": 256, "h": 540 },
+					"frame": { "x": 1287, "y": 1, "w": 256, "h": 540 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/door2/4.png": {
+					"size": { "w": 256, "h": 540 },
+					"frame": { "x": 1545, "y": 1, "w": 256, "h": 540 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/Ladder (1).png": {
+					"size": { "w": 513, "h": 257 },
+					"frame": { "x": 773, "y": 628, "w": 257, "h": 513 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": true
+				},
+				"objects/door3/3.png": {
+					"size": { "w": 256, "h": 671 },
+					"frame": { "x": 1029, "y": 543, "w": 667, "h": 60 },
+					"offset": { "x": 0, "y": 2 },
+					"rotated": true
+				},
+				"objects/Ladder (2).png": {
+					"size": { "w": 513, "h": 257 },
+					"frame": { "x": 1032, "y": 605, "w": 513, "h": 257 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/torch2/Torch (1).png": {
+					"size": { "w": 165, "h": 300 },
+					"frame": { "x": 229, "y": 1878, "w": 300, "h": 165 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": true
+				},
+				"objects/Banner (2).png": {
+					"size": { "w": 186, "h": 394 },
+					"frame": { "x": 1803, "y": 1, "w": 186, "h": 394 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/chest/3.png": {
+					"size": { "w": 304, "h": 290 },
+					"frame": { "x": 1032, "y": 864, "w": 304, "h": 249 },
+					"offset": { "x": 0, "y": 41 },
+					"rotated": false
+				},
+				"objects/Barrel (1).png": {
+					"size": { "w": 231, "h": 296 },
+					"frame": { "x": 1338, "y": 864, "w": 231, "h": 296 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/trap/1.png": {
+					"size": { "w": 256, "h": 264 },
+					"frame": { "x": 1547, "y": 605, "w": 256, "h": 257 },
+					"offset": { "x": 0, "y": 7 },
+					"rotated": false
+				},
+				"objects/chest/2.png": {
+					"size": { "w": 304, "h": 290 },
+					"frame": { "x": 1571, "y": 864, "w": 238, "h": 304 },
+					"offset": { "x": 0, "y": 52 },
+					"rotated": true
+				},
+				"objects/chest/1.png": {
+					"size": { "w": 304, "h": 290 },
+					"frame": { "x": 1032, "y": 1115, "w": 304, "h": 229 },
+					"offset": { "x": 0, "y": 61 },
+					"rotated": false
+				},
+				"objects/chest2/1.png": {
+					"size": { "w": 304, "h": 290 },
+					"frame": { "x": 1032, "y": 1115, "w": 304, "h": 229 },
+					"offset": { "x": 0, "y": 61 },
+					"rotated": false
+				},
+				"objects/Barrel (2).png": {
+					"size": { "w": 231, "h": 296 },
+					"frame": { "x": 1338, "y": 1162, "w": 231, "h": 296 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/chest2/2.png": {
+					"size": { "w": 304, "h": 290 },
+					"frame": { "x": 1571, "y": 1170, "w": 238, "h": 304 },
+					"offset": { "x": 0, "y": 52 },
+					"rotated": true
+				},
+				"objects/Banner (1).png": {
+					"size": { "w": 185, "h": 266 },
+					"frame": { "x": 515, "y": 1214, "w": 266, "h": 185 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": true
+				},
+				"objects/chest2/3.png": {
+					"size": { "w": 304, "h": 290 },
+					"frame": { "x": 487, "y": 1401, "w": 249, "h": 304 },
+					"offset": { "x": 0, "y": 41 },
+					"rotated": true
+				},
+				"objects/lever/3.png": {
+					"size": { "w": 414, "h": 290 },
+					"frame": { "x": 783, "y": 1143, "w": 246, "h": 256 },
+					"offset": { "x": 88, "y": 34 },
+					"rotated": false
+				},
+				"objects/Barrel (3).png": {
+					"size": { "w": 231, "h": 296 },
+					"frame": { "x": 738, "y": 1401, "w": 231, "h": 296 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/torch2/Torch (2).png": {
+					"size": { "w": 166, "h": 300 },
+					"frame": { "x": 487, "y": 1707, "w": 300, "h": 166 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": true
+				},
+				"objects/torch2/Torch (3).png": {
+					"size": { "w": 166, "h": 300 },
+					"frame": { "x": 531, "y": 1875, "w": 300, "h": 166 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": true
+				},
+				"objects/lever/1.png": {
+					"size": { "w": 414, "h": 290 },
+					"frame": { "x": 971, "y": 1401, "w": 187, "h": 319 },
+					"offset": { "x": 7, "y": 103 },
+					"rotated": true
+				},
+				"objects/torch2/Torch (4).png": {
+					"size": { "w": 165, "h": 300 },
+					"frame": { "x": 1160, "y": 1346, "w": 165, "h": 300 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/lever/2.png": {
+					"size": { "w": 414, "h": 290 },
+					"frame": { "x": 1327, "y": 1460, "w": 238, "h": 266 },
+					"offset": { "x": 88, "y": 24 },
+					"rotated": false
+				},
+				"objects/floor button/Button (1).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1567, "y": 1476, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/lever/4.png": {
+					"size": { "w": 414, "h": 290 },
+					"frame": { "x": 833, "y": 1722, "w": 183, "h": 321 },
+					"offset": { "x": 88, "y": 107 },
+					"rotated": true
+				},
+				"objects/Window.png": {
+					"size": { "w": 165, "h": 300 },
+					"frame": { "x": 1018, "y": 1722, "w": 165, "h": 300 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/trap/2.png": {
+					"size": { "w": 256, "h": 264 },
+					"frame": { "x": 1185, "y": 1728, "w": 256, "h": 264 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/Crate.png": {
+					"size": { "w": 218, "h": 250 },
+					"frame": { "x": 1443, "y": 1734, "w": 218, "h": 250 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/Pot (1).png": {
+					"size": { "w": 181, "h": 246 },
+					"frame": { "x": 1663, "y": 1734, "w": 181, "h": 246 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/torch/4.png": {
+					"size": { "w": 275, "h": 248 },
+					"frame": { "x": 1803, "y": 397, "w": 236, "h": 203 },
+					"offset": { "x": 18, "y": 19 },
+					"rotated": false
+				},
+				"objects/torch/3.png": {
+					"size": { "w": 275, "h": 248 },
+					"frame": { "x": 1805, "y": 602, "w": 207, "h": 236 },
+					"offset": { "x": 23, "y": 15 },
+					"rotated": true
+				},
+				"objects/torch/2.png": {
+					"size": { "w": 275, "h": 248 },
+					"frame": { "x": 1811, "y": 840, "w": 199, "h": 236 },
+					"offset": { "x": 28, "y": 23 },
+					"rotated": true
+				},
+				"objects/torch/1.png": {
+					"size": { "w": 275, "h": 248 },
+					"frame": { "x": 1811, "y": 1078, "w": 192, "h": 236 },
+					"offset": { "x": 23, "y": 30 },
+					"rotated": true
+				},
+				"objects/Skeleton2.png": {
+					"size": { "w": 214, "h": 149 },
+					"frame": { "x": 1811, "y": 1316, "w": 214, "h": 149 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/Skeleton1.png": {
+					"size": { "w": 227, "h": 187 },
+					"frame": { "x": 1825, "y": 1467, "w": 187, "h": 227 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": true
+				},
+				"objects/Key (1).png": {
+					"size": { "w": 138, "h": 142 },
+					"frame": { "x": 1846, "y": 1696, "w": 138, "h": 142 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/Torch.png": {
+					"size": { "w": 28, "h": 81 },
+					"frame": { "x": 1, "y": 2007, "w": 81, "h": 28 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": true
+				}
+			}
+		},
+		{
+			"texture": "DungeonTileset-1.png",
+			"normalMap": "DungeonTileset-1_n.png",
+			"frames": {
+				"objects/floor button/Button (2).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1, "y": 1, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (1).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1, "y": 259, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (2).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1, "y": 517, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (3).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1, "y": 775, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (4).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1, "y": 1033, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (5).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1, "y": 1291, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (6).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1, "y": 1549, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"objects/Pot (2).png": {
+					"size": { "w": 181, "h": 245 },
+					"frame": { "x": 1, "y": 1807, "w": 245, "h": 181 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": true
+				},
+				"objects/Key (2).png": {
+					"size": { "w": 138, "h": 142 },
+					"frame": { "x": 248, "y": 1807, "w": 138, "h": 142 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (7).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 259, "y": 1, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (8).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 259, "y": 259, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (9).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 259, "y": 517, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (10).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 259, "y": 775, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (11).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 259, "y": 1033, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (12).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 259, "y": 1291, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (13).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 259, "y": 1549, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (14).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 517, "y": 1, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (15).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 775, "y": 1, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (16).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1033, "y": 1, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (17).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1291, "y": 1, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (18).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1549, "y": 1, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (19).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 517, "y": 259, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (20).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 775, "y": 259, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (21).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1033, "y": 259, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (22).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1291, "y": 259, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (23).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1549, "y": 259, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (24).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 517, "y": 517, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (25).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 517, "y": 775, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (26).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 517, "y": 1033, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (27).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 517, "y": 1291, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (28).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 517, "y": 1549, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (29).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 775, "y": 517, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (30).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1033, "y": 517, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (31).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1291, "y": 517, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (32).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1549, "y": 517, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (33).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 775, "y": 775, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (34).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 775, "y": 1033, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (35).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 775, "y": 1291, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (36).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 775, "y": 1549, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (37).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1033, "y": 775, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (38).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1291, "y": 775, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (39).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1549, "y": 775, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (40).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1033, "y": 1033, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (41).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1033, "y": 1291, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (49).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1033, "y": 1549, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (50).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1291, "y": 1033, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (52).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1549, "y": 1033, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (53).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1291, "y": 1291, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (54).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1291, "y": 1549, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (55).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1549, "y": 1291, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (56).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1549, "y": 1549, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				}
+			}
+		},
+		{
+			"texture": "DungeonTileset-2.png",
+			"normalMap": "DungeonTileset-2_n.png",
+			"frames": {
+				"tiles/Tile (42).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1, "y": 1, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (43).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1, "y": 259, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (44).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1, "y": 517, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (45).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1, "y": 775, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (46).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1, "y": 1033, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (47).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1, "y": 1291, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (48).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1, "y": 1549, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (57).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 259, "y": 1, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (58).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 259, "y": 259, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (59).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 259, "y": 517, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (60).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 259, "y": 775, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (61).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 259, "y": 1033, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (62).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 259, "y": 1291, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (63).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 259, "y": 1549, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (64).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 517, "y": 1, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (65).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 517, "y": 259, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (66).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 517, "y": 517, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (67).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 517, "y": 775, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (68).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 517, "y": 1033, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (69).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 517, "y": 1291, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (70).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 517, "y": 1549, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (71).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 775, "y": 1, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (72).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 775, "y": 259, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (73).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 775, "y": 517, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (74).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 775, "y": 775, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (75).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 775, "y": 1033, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (76).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 775, "y": 1291, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (77).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 775, "y": 1549, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (78).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1033, "y": 1, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (79).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1033, "y": 259, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (80).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1033, "y": 517, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (81).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1033, "y": 775, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (82).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1033, "y": 1033, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				},
+				"tiles/Tile (83).png": {
+					"size": { "w": 256, "h": 256 },
+					"frame": { "x": 1033, "y": 1291, "w": 256, "h": 256 },
+					"offset": { "x": 0, "y": 0 },
+					"rotated": false
+				}
+			}
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"exporter": "gamemaker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:658799d3e7ab2a435686f2f147cbf658:bfe48e5c532caeda2aa262dc4c4ee980:5fd830e5356fb30fef6b72d14e4e7fe3$"
+	}
+}
